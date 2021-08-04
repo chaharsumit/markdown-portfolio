@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+* Sports
+  * football
+* Animals
+  * dogs
+  * cats
+* Food
+  * parantha
+  * samosa   
